@@ -1,0 +1,2 @@
+# SOFTREC-WEB-DOMAIN-TASK
+SOFTREC WEBSITE (Events and about pages)
